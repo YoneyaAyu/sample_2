@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sample_2</string>
+    <string name="stop" />
+    <string name="start" />
+</resources>
